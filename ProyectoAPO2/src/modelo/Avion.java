@@ -4,6 +4,8 @@ import interfaces.Disparable;
 
 public class Avion extends Ente {
 	
+	
+	//Juan es gay
 	private int vida;
 	private double velocidad;
 	private Disparo disparo;
